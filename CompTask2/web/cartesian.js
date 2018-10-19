@@ -21,7 +21,6 @@ function coordinatesLine(min_x,a,b,iter,how_many_coordinates) {
 
     //osadzenie wyniku w kodzie HTML
     document.getElementById('box').innerHTML = result;
-
 }
 
 
